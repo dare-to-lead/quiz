@@ -7,7 +7,7 @@ function Quiz() {
     questions,
     handleAnswer,
     handleNextQuestion,
-    score,
+    
     chosen,
     finishQuiz,
   } = useContext(QuizContext);
